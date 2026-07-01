@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarveshwar Pawar</h1>
-<h3 align="center">A professional Python Developer</h3>
+<h3 align="center">A professional Python Backend Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebysarvesh&label=Profile%20views&color=0e75b6&style=flat" alt="codebysarvesh" /> </p>
 
-- 💬 Ask me about **Python, Django,Vue.js, Pandas, Numpy**
+- 💬 Ask me about **Python, Django, Rest API's, SQL, AWS**
 
 - 📫 How to reach me **pawarsarveshwar@gmail.com**
 
